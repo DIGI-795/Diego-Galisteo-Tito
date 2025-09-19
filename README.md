@@ -22,3 +22,10 @@
 
 **1. ESO:**
 * **Instituto - Numancia ( 2021-2025 )**
+
+## 5. Habilidades:
+
+* **Calcular recorridos**
+* **Velocidad**
+* **Agilidad**
+* **Trabajo en equipo**
