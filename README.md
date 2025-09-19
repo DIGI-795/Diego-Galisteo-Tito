@@ -18,3 +18,7 @@
 - **Boxeo**
 - **Baloncesto**
 
+## 4. Educació:
+
+**1. ESO:**
+* **Instituto - Numancia ( 2021-2025 )**
