@@ -2,19 +2,19 @@
 
 ## 1. Quién soy y que me gusta hacer:
 
-* ** Soy Diego, tengo 15 años y me gusta mucho la programación, la informática y los deportes. **
+* **Soy Diego, tengo 15 años y me gusta mucho la programación, la informática y los deportes.**
 
 ## 2. Dadas personales:
 
-* ** Nom: Diego Galisteo Tito **
-* ** Fecha de nacimiento: 21 / 09 / 2009 **
-* ** Ubicació: Santa Coloma de Gramanet, Catalunya **
-* ** Email: diegogalisteotito@elpuig.xeill.net **
+* **Nom: Diego Galisteo Tito**
+* **Fecha de nacimiento: 21 / 09 / 2009**
+* **Ubicació: Santa Coloma de Gramanet, Catalunya**
+* **Email: diegogalisteotito@elpuig.xeill.net**
 
 ## 3. Aficionse i intereses:
 
-- ** Videojuegos **
-- ** Programación **
-- ** Boxeo **
-- ** Baloncesto **
+- **Videojuegos**
+- **Programación**
+- **Boxeo**
+- **Baloncesto**
 
