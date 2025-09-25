@@ -43,5 +43,6 @@
 
 ## 8. Fotografía:
 
+![Rin](https://i.pinimg.com/736x/f7/4b/47/f74b4700f2b176ebf28ef6411b036b85.jpg)
 ![Videojuegos](https://www.muyinteresante.com/wp-content/uploads/sites/5/2024/04/09/6615558b6f24f.png)
 
