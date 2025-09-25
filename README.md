@@ -37,4 +37,5 @@
 
 ## 7. Fotografía:
 
-![Todo sobre los tipos de videojuegos, consolas y plataformas - Catness Game Studios](https://www.google.com/imgres?q=videojuegos&imgurl=https%3A%2F%2Fcatnessgames.com%2Fwp-content%2Fuploads%2F2024%2F12%2Ftipos-videojuegos-consolas-y-plataformas.jpg&imgrefurl=https%3A%2F%2Fcatnessgames.com%2Fes%2Fblog%2Ftipos-videojuegos-consolas-plataformas%2F&docid=SvuJp_uMNroPaM&tbnid=sJ5XqngHPt6g7M&vet=12ahUKEwj1x7zI7_OPAxXRRaQEHajmLCgQM3oECBcQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwj1x7zI7_OPAxXRRaQEHajmLCgQM3oECBcQAA)
+![Videojuegos](<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/362ccd9e-51f7-4dfc-bcac-53ac5c856c0e" />
+)
