@@ -37,4 +37,5 @@
 
 ## 7. Fotografía:
 
-![Videojuegos](https://www.google.com/imgres?q=videojuegos&imgurl=https%3A%2F%2Fwww.animum3d.com%2Fwp-content%2Fuploads%2F2023%2F05%2Fblog-videojuegos-cabecera-1200x675.png&imgrefurl=https%3A%2F%2Fwww.animum3d.com%2Fblog%2Fcual-es-el-videojuego-mas-popular-del-mundo%2F&docid=du-OrxZFPsPRxM&tbnid=O6sqHrfuxaJi-M&w=1200&h=675&hcb=2)
+![Videojuegos](https://es.pinterest.com/pin/696650636093379435/)
+
