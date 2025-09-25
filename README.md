@@ -23,19 +23,25 @@
 **1. ESO:**
 * **Instituto - Numancia ( 2021-2025 )**
 
-## 5. Habilidades:
+## 5. Projectos Destacados:
+
+**Historia Fantástica:**
+**Una historia fantástica i de aventura donde subo capitulos cuando pueda.**
+**Enlace: [Las Gemas Del Poder]() 
+
+## 6. Habilidades:
 
 * **Calcular recorridos**
 * **Velocidad**
 * **Agilidad**
 * **Trabajo en equipo**
 
-## 6. Redes Sociales:
+## 7. Redes Sociales:
 
 * **Instagram: [Instagram](https://www.instagram.com/l_digi_l/)**
 * **Tiktok: [Tiktok](https://www.tiktok.com/@digi_795)**
 
-## 7. Fotografía:
+## 8. Fotografía:
 
-![Videojuegos](https://es.pinterest.com/pin/696650636093379435/)
+![Videojuegos](https://www.muyinteresante.com/wp-content/uploads/sites/5/2024/04/09/6615558b6f24f.png)
 
