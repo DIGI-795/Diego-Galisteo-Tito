@@ -27,7 +27,7 @@
 
 **Historia Fantástica:**
 **Una historia fantástica i de aventura donde subo capitulos cuando pueda.**
-**Enlace: [Las Gemas Del Poder]() 
+**Enlace: [Las Gemas Del Poder](https://www.wattpad.com/story/393637517-las-gemas-del-poder) 
 
 ## 6. Habilidades:
 
