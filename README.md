@@ -27,7 +27,7 @@
 
 **Historia Fantástica:**
 **Una historia fantástica i de aventura donde subo capitulos cuando pueda.**
-**Enlace: [Las Gemas Del Poder](https://www.wattpad.com/story/393637517-las-gemas-del-poder) 
+**Enlace: [Las Gemas Del Poder](https://www.wattpad.com/story/393637517-las-gemas-del-poder)** 
 
 ## 6. Habilidades:
 
@@ -44,7 +44,7 @@
 ## 8. Fotografía:
 
 ![Bivol](https://a.espncdn.com/photo/2018/1124/r468392_800x450_16-9.jpg)
-![Rin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIQ0gLXfrNvUf4cbymY-548Vi7e-xFLWnCQ&s)
+![Rin]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIQ0gLXfrNvUf4cbymY-548Vi7e-xFLWnCQ&s](https://images4.alphacoders.com/129/thumb-1920-1290494.jpg))
 
 
 
