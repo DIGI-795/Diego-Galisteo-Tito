@@ -44,7 +44,7 @@
 ## 8. Fotografía:
 
 ![Bivol](https://a.espncdn.com/photo/2018/1124/r468392_800x450_16-9.jpg)
-![Undertale](![Rin](https://i.pinimg.com/736x/f7/4b/47/f74b4700f2b176ebf28ef6411b036b85.jpg))
-![Rin](https://i.pinimg.com/736x/f7/4b/47/f74b4700f2b176ebf28ef6411b036b85.jpg)
+![Undertale](<img width="304" height="166" alt="image" src="https://github.com/user-attachments/assets/200c4a5c-2beb-4089-8b7c-b8ffa95744a8" />)
+
 
 
