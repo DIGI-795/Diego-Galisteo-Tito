@@ -44,8 +44,7 @@
 ## 8. Fotografía:
 
 ![Bivol](https://a.espncdn.com/photo/2018/1124/r468392_800x450_16-9.jpg)
-![Rin](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/53e2c8cf-27d3-43fe-9046-7634ecccb67c" />
-)
+![Rin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-qzPMfcU29K7wTn3rEq47HjuUmI8XvfFZjg&s)
 
 
 
